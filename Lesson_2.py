@@ -1,4 +1,4 @@
-fullname = "Lavern Kate A. Abejuela"
+fullname = "Ellan Butalid"
 age = 18
 height = 1.53
 currently_working = False
